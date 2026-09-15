@@ -1,2 +1,2 @@
 # exb-widgets
-Widgets para o Experience Builder
+Teste widgets para Experience Builder
